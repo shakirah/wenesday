@@ -1,0 +1,86 @@
+<html>
+	<head>
+		<title>my website</title>
+		<link rel="stylesheet" type="text/css" href="shak.css" />
+	</head>
+	<body class="background" style="
+    background-color: #b0c4de;">
+		<ul>
+			<li>stanbic</li>
+			<li>bank of africa</li>
+			<li>tropical</li>
+			<li>equity</li>
+			<li>centinary</li>
+
+		</ul>
+
+		<ol>
+			<li>stanbic</li>
+			<li>bank of africa</li>
+			<li>tropical</li>
+			<li>equity</li>
+			<li>centinary</li>
+
+		</ol>
+		<table border="1">
+			<tr>
+				<td colspan="4">.</td>
+				
+				
+				
+			
+			</tr>
+			<tr>
+				<td colspan="2">sham</td>
+				<td colspan="2">4</td>
+				
+				
+			
+			</tr>
+			<tr>
+				<td rowspan="3">shari</td>
+				
+				<td>8</td>
+				<td>9</td>
+			
+			</tr>
+			<tr>
+				<td>hal</td>
+				<td>10</td>
+				<td>11</td>
+				<td>12</td>
+			
+			</tr>
+
+
+			<table border="2">
+				<tr>
+					
+					<td colspan="5">.</td>
+				</tr>
+
+				<tr>
+					<td colspan="">.</td>
+					<td colspan="">.</td>
+					<td colspan="">.</td>
+					<td colspan="">.</td>
+					<td colspan="">.</td>
+				</tr>
+
+			</table>
+				
+			
+				
+			
+
+
+
+
+
+		</table>
+
+
+
+      
+	</body>
+</html>
